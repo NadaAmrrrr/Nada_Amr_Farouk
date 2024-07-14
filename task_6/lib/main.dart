@@ -3,7 +3,7 @@ import 'package:task_6/usingcubit.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:task_6/cubits/cubit/cubic_cubit.dart';
 
-import 'dart:io' show Platform;
+//import 'dart:io' show Platform;
 
 void main() {
   runApp(MyApp());
